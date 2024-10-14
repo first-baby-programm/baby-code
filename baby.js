@@ -67,7 +67,7 @@ guiContainer.appendChild(guiContent);
 // Add a button inside the content section
 const guiButton = document.createElement('button');
 guiButton.id = 'customGuiButton';
-guiButton.textContent = 'Click Me';
+guiButton.textContent = 'Skibidi';
 guiContent.appendChild(guiButton);
 
 // Add functionality to the button
